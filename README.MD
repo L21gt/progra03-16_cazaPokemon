@@ -1,6 +1,6 @@
 Luis Velasquez  
 Carnet 24011341  
-Tarea 16 - cazaPokemon (P)  
+Tarea 16 - cazaPokemon  
 Curso JavaScript Testing  
 
 #  INSTRUCCIONES
